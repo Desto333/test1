@@ -20,4 +20,5 @@ public class Quiz {
             result = false;
         return result;
     }
+
 }
